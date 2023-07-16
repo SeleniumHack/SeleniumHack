@@ -34,3 +34,4 @@
 <p align="center">
 <a href="#" target="_blank" rel="noreferrer"> 
 <img src="https://imgur.com/hspqM3j" alt="divider"/> </a> 
+</p>
