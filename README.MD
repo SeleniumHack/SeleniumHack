@@ -26,6 +26,6 @@
 <h3 align="left">​🇸​​🇺​​🇵​​🇵​​🇴​​🇷​​🇹​ ​🇺​​🇸​</h3>
 ​🇮​​🇫​ ​🇾​​🇴​​🇺​ ​🇱​​🇮​​🇰​​🇪​ ​🇦​​🇳​​🇩​ ​🇸​​🇺​​🇵​​🇵​​🇴​​🇷​​🇹​ ​🇼​​🇭​​🇦​​🇹​ ​🇼​​🇪​ ​🇩​​🇴​, ​🇩​​🇴​​🇳​❜​🇹​ ​🇭​​🇪​​🇸​​🇮​​🇹​​🇦​​🇹​​🇪​ ​🇹​​🇴​ ​🇧​​🇺​​🇾​ ​🇺​​🇸​ ​🇦​ ​🇨​​🇴​​🇫​​🇫​​🇪​​🇪​❗ ​🇼​​🇪​ ​🇩​​🇷​​🇮​​🇳​​🇰​ ​🇦​ ​🇱​​🇴​​🇹​ ​🇴​​🇫​ ​🇨​​🇴​​🇫​​🇫​​🇪​​🇪​ BTW❗
 <p align="left">
-<a href="" target="_blank" rel="noreferrer"> 
 ​🇧​​🇹​​🇨 bc1q828ugvsr8nt6sfssq95g0gt5n6e3705yjsyx5g
+<a href="" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="support" height="30"/> </a> </p>
