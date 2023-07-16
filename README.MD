@@ -1,4 +1,4 @@
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/F8FjqS7.png" alt="sel" height="60"/> </a></p>
+<p align="CENTER"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/F8FjqS7.png" alt="sel" height="80"/> </a></p>
 
 ​🇼​​🇪​​🇱​​🇨​​🇴​​🇲​​🇪​ ​🇹​​🇴​ ​🇴​​🇺​​🇷​ ​🇬​​🇮​​🇹​​🇭​​🇺​​🇧​ ​🇵​​🇷​​🇴​​🇫​​🇮​​🇱​​🇪​❗👋 ​🇼​​🇪​❜​🇷​​🇪​ ​🇦​ ​🇹​​🇪​​🇦​​🇲​ ​🇴​​🇫​ ​🇸​​🇰​​🇮​​🇱​​🇱​​🇪​​🇩​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇷​​🇸​ ​🇵​​🇦​​🇸​​🇸​​🇮​​🇴​​🇳​​🇦​​🇹​​🇪​ ​🇦​​🇧​​🇴​​🇺​​🇹​ ​🇨​​🇷​​🇦​​🇫​​🇹​​🇮​​🇳​​🇬​ ​🇮​​🇳​​🇳​​🇴​​🇻​​🇦​​🇹​​🇮​​🇻​​🇪​ ​🇸​​🇴​​🇱​​🇺​​🇹​​🇮​​🇴​​🇳​​🇸​. 🌱
 
