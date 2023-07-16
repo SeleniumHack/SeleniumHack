@@ -17,6 +17,8 @@
 <img src="https://seeklogo.com/images/S/skype-icon-logo-62E333BBBA-seeklogo.com.png" alt="skype" width="40" height="40"/> </a> 
 <a href="https://t.me/seleniumcore" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="40" height="40"/> </a>
-<a href="https://t.me/seleniumcore" target="_blank" rel="noreferrer"> 
+<a href="mailto:seleniumteam@proton.me" target="_blank" rel="noreferrer"> 
 <img src="https://seeklogo.com/images/P/proton-mail-logo-31D8CDC79E-seeklogo.com.png" alt="proton" width="40" height="40"/> </a>
+<a href="https://www.youtube.com/@seleniumcore" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" alt="proton" width="40" height="40"/> </a>
 </p>
