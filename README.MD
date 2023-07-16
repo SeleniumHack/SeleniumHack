@@ -27,4 +27,4 @@
 ​🇮​​🇫​ ​🇾​​🇴​​🇺​ ​🇱​​🇮​​🇰​​🇪​ ​🇦​​🇳​​🇩​ ​🇸​​🇺​​🇵​​🇵​​🇴​​🇷​​🇹​ ​🇼​​🇭​​🇦​​🇹​ ​🇼​​🇪​ ​🇩​​🇴​, ​🇩​​🇴​​🇳​❜​🇹​ ​🇭​​🇪​​🇸​​🇮​​🇹​​🇦​​🇹​​🇪​ ​🇹​​🇴​ ​🇧​​🇺​​🇾​ ​🇺​​🇸​ ​🇦​ ​🇨​​🇴​​🇫​​🇫​​🇪​​🇪​❗ ​🇼​​🇪​ ​🇩​​🇷​​🇮​​🇳​​🇰​ ​🇦​ ​🇱​​🇴​​🇹​ ​🇴​​🇫​ ​🇨​​🇴​​🇫​​🇫​​🇪​​🇪​ BTW❗
 <p align="left">
 <a href="" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="support" height="20"/> ｂｃ１ｑ８２８ｕｇｖｓｒ８ｎｔ６ｓｆｓｓｑ９５ｇ０ｇｔ５ｎ６ｅ３７０５ｙｊｓｙｘ５ｇ</a> </p>
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="support" height="40"/> </a>ｂｃ１ｑ８２８ｕｇｖｓｒ８ｎｔ６ｓｆｓｓｑ９５ｇ０ｇｔ５ｎ６ｅ３７０５ｙｊｓｙｘ５ｇ </p>
