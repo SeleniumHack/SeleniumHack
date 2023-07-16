@@ -22,3 +22,9 @@
 <a href="https://www.youtube.com/@seleniumcore" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" alt="proton" height="20"/> </a>
 </p>
+
+<h3 align="left">​🇸​​🇺​​🇵​​🇵​​🇴​​🇷​​🇹​ ​🇺​​🇸​</h3>
+​🇮​​🇫​ ​🇾​​🇴​​🇺​ ​🇱​​🇮​​🇰​​🇪​ ​🇦​​🇳​​🇩​ ​🇸​​🇺​​🇵​​🇵​​🇴​​🇷​​🇹​ ​🇼​​🇭​​🇦​​🇹​ ​🇼​​🇪​ ​🇩​​🇴​, ​🇩​​🇴​​🇳​❜​🇹​ ​🇭​​🇪​​🇸​​🇮​​🇹​​🇦​​🇹​​🇪​ ​🇹​​🇴​ ​🇧​​🇺​​🇾​ ​🇺​​🇸​ ​🇦​ ​🇨​​🇴​​🇫​​🇫​​🇪​​🇪​❗ ​🇼​​🇪​ ​🇩​​🇷​​🇮​​🇳​​🇰​ ​🇦​ ​🇱​​🇴​​🇹​ ​🇴​​🇫​ ​🇨​​🇴​​🇫​​🇫​​🇪​​🇪​ BTW❗
+<p align="left">
+<a href="" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="support" height="20"/> ｂｃ１ｑ８２８ｕｇｖｓｒ８ｎｔ６ｓｆｓｓｑ９５ｇ０ｇｔ５ｎ６ｅ３７０５ｙｊｓｙｘ５ｇ</a> </p>
