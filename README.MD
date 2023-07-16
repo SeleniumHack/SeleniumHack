@@ -14,18 +14,18 @@
 <h3 align="left">​🇨​​🇴​​🇳​​🇳​​🇪​​🇨​​🇹​ ​🇼​​🇮​​🇹​​🇭​ ​🇺​​🇸​</h3>
 <p align="left">
 <a href="https://join.skype.com/invite/HwrXTLxgEX7w" target="_blank" rel="noreferrer"> 
-<img src="https://seeklogo.com/images/S/skype-icon-logo-62E333BBBA-seeklogo.com.png" alt="skype" height="20"/> </a> 
+<img src="https://seeklogo.com/images/S/skype-icon-logo-62E333BBBA-seeklogo.com.png" alt="skype" height="30"/> </a> 
 <a href="https://t.me/seleniumcore" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" height="20"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" height="30"/> </a>
 <a href="mailto:seleniumteam@proton.me" target="_blank" rel="noreferrer"> 
-<img src="https://seeklogo.com/images/P/proton-mail-logo-31D8CDC79E-seeklogo.com.png" alt="proton" height="20"/> </a>
+<img src="https://seeklogo.com/images/P/proton-mail-logo-31D8CDC79E-seeklogo.com.png" alt="proton" height="30"/> </a>
 <a href="https://www.youtube.com/@seleniumcore" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" alt="proton" height="20"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" alt="proton" height="30"/> </a>
 </p>
 
 <h3 align="left">​🇸​​🇺​​🇵​​🇵​​🇴​​🇷​​🇹​ ​🇺​​🇸​</h3>
 ​🇮​​🇫​ ​🇾​​🇴​​🇺​ ​🇱​​🇮​​🇰​​🇪​ ​🇦​​🇳​​🇩​ ​🇸​​🇺​​🇵​​🇵​​🇴​​🇷​​🇹​ ​🇼​​🇭​​🇦​​🇹​ ​🇼​​🇪​ ​🇩​​🇴​, ​🇩​​🇴​​🇳​❜​🇹​ ​🇭​​🇪​​🇸​​🇮​​🇹​​🇦​​🇹​​🇪​ ​🇹​​🇴​ ​🇧​​🇺​​🇾​ ​🇺​​🇸​ ​🇦​ ​🇨​​🇴​​🇫​​🇫​​🇪​​🇪​❗ ​🇼​​🇪​ ​🇩​​🇷​​🇮​​🇳​​🇰​ ​🇦​ ​🇱​​🇴​​🇹​ ​🇴​​🇫​ ​🇨​​🇴​​🇫​​🇫​​🇪​​🇪​ BTW❗
 <p align="left">
-​🇧​​🇹​​🇨 bc1q828ugvsr8nt6sfssq95g0gt5n6e3705yjsyx5g
+​🇧​​🇹​​🇨 bc1q828ugvsr8nt6sfssq95g0gt5n6e3705yjsyx5g</br>
 <a href="" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="support" height="30"/> </a> </p>
