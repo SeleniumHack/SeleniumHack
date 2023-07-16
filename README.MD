@@ -31,3 +31,6 @@
 🇧​​🇹​​🇨 bc1q828ugvsr8nt6sfssq95g0gt5n6e3705yjsyx5g
 
 
+<p align="center">
+<a href="#" target="_blank" rel="noreferrer"> 
+<img src="https://imgur.com/hspqM3j" alt="divider"/> </a> 
