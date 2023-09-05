@@ -34,6 +34,6 @@
 </br>
 </br>
 <p align="center">
-<a href="#" target="_blank" rel="noreferrer"> 
+<a href="." target="_blank" rel="noreferrer"> 
 <img src="https://i.imgur.com/hspqM3j.png" alt="divider"> </a> 
 </p>
